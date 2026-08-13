@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-vkj5ga.pulaucuan.net/sitemap.xml
